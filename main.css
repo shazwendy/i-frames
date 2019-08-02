@@ -1,0 +1,27 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+
+
+
+.cont{
+	width: 600px;
+	/*min-height: 500px;*/
+	/*background-color: #fff;*/
+	margin: 0 auto;
+	text-align: justify;
+}
+
+.media{
+	width: 600px;
+	min-height: 300px;
+	margin: 0 auto;
+	/*background-color: #fff;*/
+}
+
+
+
+.media.map{
+	width: 100%;
+}
